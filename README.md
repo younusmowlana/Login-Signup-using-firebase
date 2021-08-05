@@ -14,11 +14,13 @@
 	c.activity_home.xml
 **********************************************************************************
 Steps to run the app.
+
 1.Signup using the asked details and full fill all the requirements.
 
-
 2.check the email ,if the mail is not present in inbox check in AllMails option of the Email id or check Internet connection.
+
 3. verify the email address by clicking on the link provided.
+
 4.Now sign in with the details you provided.
 
 
