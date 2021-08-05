@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611173471932",
+    "firebase_url": "https://easylearn-31a05.firebaseio.com",
+    "project_id": "easylearn-31a05",
+    "storage_bucket": "easylearn-31a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611173471932:android:5947df2761e0e6cd8762b9",
+        "android_client_info": {
+          "package_name": "com.example.easylearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611173471932-u4h1omipv6cqrv2dbhhu2dq44gucleh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easylearn",
+            "certificate_hash": "a349c5f0047173faa2d9647ad70a72a991e86516"
+          }
+        },
+        {
+          "client_id": "611173471932-mavr8culnquq6rbgcf85sdh3khppb372.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ0Snm9o4EFfgktiEQmVhWxNOpjBC8Fjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611173471932-mavr8culnquq6rbgcf85sdh3khppb372.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
