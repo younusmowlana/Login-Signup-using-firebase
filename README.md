@@ -1,11 +1,14 @@
 # Login-Signup-using-firebase
 
 1. The apk is there in the APK folder and also present in app>release>app-release.apk
+
 2.Code comprises of three Activities.
+
   	a.LoginActivity.java
 	b.MainActivity.java
 	c.HomeActivity.java
 3.It comprises of three layouts respectively.
+
 	a.activity_login.xml
 	b.activity_main.xml
 	c.activity_home.xml
